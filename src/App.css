@@ -9,6 +9,7 @@
 }
 
 .title {
+  text-align: center;
   width: 70%;
   padding: 1rem;
   border-bottom: 2px solid black;
